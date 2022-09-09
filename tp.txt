@@ -1,0 +1,20 @@
+/**
+ *  # Supprimer une catégorie
+ *  # Créer une categorie
+ *  # Mettre à jour une catégorie
+ */
+/**
+ *  Créer un produit pour une categorie(id) donnée.Tous les champs sont obligatoires
+ *  Modifier un produit
+ *  Supprimer un produit
+ *  Récupérer tous les produits
+ *  Récupérer un produit par son id
+ *  Récupérer tous les produit pour une catégorie donnée
+ * {
+ *   id:1,
+ *   nom:"PS 5",
+ *   prixHT : 400,
+ *   id_categorie:1,
+ *   description :"sdsdfjnk"
+ * }
+ */

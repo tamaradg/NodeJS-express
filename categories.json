@@ -1,0 +1,12 @@
+{
+  "1": {
+    "id": 1,
+    "nom": "Jeux vidéos",
+    "description": "C'est pour ceux qui adorent chirer"
+  },
+  "2": {
+    "id": 2,
+    "nom": "Ordinateurs",
+    "description": "Ceci inclut les laptop & ordinateurs de bureau"
+  }
+}
